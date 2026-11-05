@@ -27,7 +27,20 @@ function show(){
     }
     show();
     
-    console.log(functionVar); // Throws ReferenceError
-    console.log(functionLet); // Throws ReferenceError
-    console.log(functionConst); // Throws ReferenceError
+    // console.log(functionVar); // Throws ReferenceError
+    // console.log(functionLet); // Throws ReferenceError
+    // console.log(functionConst); // Throws ReferenceError
     
+    {
+        var secondBlockVar = "second block var"
+        let secondBlockLet = "second block let"
+        const secondBlockConst = "second block const"
+    }
+
+    secondBlockVar = "reassigned second block var"
+    secondBlockLet = "reassigned second block let"
+    secondBlockConst = "reassigned second block const"
+
+    console.log(secondBlockVar)
+    console.log(secondBlockLet)
+    console.log(secondBlockConst)
