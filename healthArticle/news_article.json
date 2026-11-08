@@ -1,0 +1,89 @@
+{
+  "articles": [
+    {
+      "title": "Global Leaders Gather for Climate Summit to Negotiate New Emissions Targets",
+      "description": "World leaders and delegates convene to discuss stronger commitments on carbon emissions, climate financing for developing nations, and the transition to renewable energy sources.",
+      "category": "World",
+      "key_points": [
+        "Delegates from over 190 countries are negotiating updated emissions reduction targets.",
+        "Developing nations are pushing for increased climate financing and technology transfer.",
+        "Renewable energy investment is expected to be a central topic of the talks.",
+        "Environmental groups are calling for binding commitments rather than voluntary pledges."
+      ],
+      "impact": [
+        "Potential acceleration of the global shift toward clean energy.",
+        "Increased funding for climate adaptation in vulnerable regions.",
+        "Possible new regulations affecting carbon-intensive industries.",
+        "Greater international cooperation on environmental policy."
+      ]
+    },
+    {
+      "title": "Central Bank Adjusts Interest Rates Amid Inflation Concerns",
+      "description": "The central bank announces a revision to its benchmark interest rate as policymakers weigh persistent inflation against the need to support economic growth.",
+      "category": "Business",
+      "key_points": [
+        "The rate decision follows several months of fluctuating consumer prices.",
+        "Analysts are divided on whether the move will curb inflation without slowing growth.",
+        "Banks and lenders are expected to adjust loan and savings rates in response.",
+        "The bank signaled that future decisions will depend on incoming economic data."
+      ],
+      "impact": [
+        "Changes in borrowing costs for households and businesses.",
+        "Shifts in currency value and investor sentiment.",
+        "Potential effects on housing and consumer spending.",
+        "Increased attention on upcoming inflation and employment reports."
+      ]
+    },
+    {
+      "title": "Tech Companies Unveil New AI Tools to Boost Workplace Productivity",
+      "description": "Major technology firms release a wave of artificial intelligence products designed to automate routine tasks, assist with coding, and improve collaboration in the workplace.",
+      "category": "Technology",
+      "key_points": [
+        "New tools focus on summarizing documents, drafting content, and automating workflows.",
+        "Developers are gaining AI assistants that help write, test, and review code.",
+        "Companies emphasize data privacy and security features in their announcements.",
+        "Experts urge organizations to train employees on responsible AI use."
+      ],
+      "impact": [
+        "Potential gains in efficiency across many industries.",
+        "Evolving skill requirements for workers.",
+        "Ongoing debates about job displacement and ethical AI use.",
+        "Increased competition among technology providers."
+      ]
+    },
+    {
+      "title": "National Football Team Secures Spot in Upcoming International Tournament",
+      "description": "After a hard-fought qualifying campaign, the national team clinches a place in the next international tournament, sparking celebrations among fans across the country.",
+      "category": "Sports",
+      "key_points": [
+        "The team secured qualification with a decisive victory in its final match.",
+        "The coach praised the squad's discipline, teamwork, and resilience.",
+        "Fans gathered in public spaces to celebrate the achievement.",
+        "Preparations for the tournament, including friendly matches, are already being planned."
+      ],
+      "impact": [
+        "Boost in national pride and fan engagement.",
+        "Increased opportunities for sponsorship and investment in the sport.",
+        "Greater exposure for emerging players on the international stage.",
+        "Heightened expectations for the team's performance at the tournament."
+      ]
+    },
+    {
+      "title": "Health Ministry Launches Nationwide Vaccination and Public Awareness Campaign",
+      "description": "Health authorities roll out a large-scale campaign to improve immunization coverage and educate communities about preventive healthcare.",
+      "category": "Health",
+      "key_points": [
+        "Mobile clinics will reach rural and underserved communities.",
+        "Community leaders and healthcare workers are being engaged to build public trust.",
+        "The campaign targets children, pregnant women, and vulnerable groups.",
+        "Officials are using radio, social media, and community outreach to share information."
+      ],
+      "impact": [
+        "Reduced risk of preventable disease outbreaks.",
+        "Improved access to healthcare in remote areas.",
+        "Greater public awareness of preventive health measures.",
+        "Strengthened national health infrastructure."
+      ]
+    }
+  ]
+}
